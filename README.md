@@ -1,4 +1,4 @@
-# 🌐 Red Protocol - hero sextion
+# 🌐 Red Protocol - hero section
 
 ![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhrbXcwYWliYjZpNjNhNGMwM2dsaGZnbm5zanQ3NHZiYXA4eXo3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif)
 
